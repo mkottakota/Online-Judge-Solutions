@@ -1,6 +1,7 @@
 #include <cstdio>
 #include <map>
 #include <algorithm>
+#include<iostream>/to work cout and cin
 
 using namespace std;
 
